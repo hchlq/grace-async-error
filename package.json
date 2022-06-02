@@ -1,0 +1,12 @@
+{
+  "name": "grace-async-error",
+  "version": "1.0.0",
+  "description": "grace to handle async error",
+  "main": "index.js",
+  "scripts": {},
+  "author": "huangcheng",
+  "license": "ISC",
+  "dependencies": {
+    "grace-async-error": "^1.0.0"
+  }
+}
